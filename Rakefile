@@ -5,7 +5,7 @@ require "hoe"
 require File.dirname(__FILE__) << "/lib/authlogic_openid/version"
 
 Hoe.new("Authlogic OpenID", AuthlogicOpenid::Version::STRING) do |p|
-  p.name = "authlogic-oid"
+  p.name = "mylescarrick-authlogic-oid"
   p.rubyforge_name = "authlogic-oid"
   p.author = "Ben Johnson of Binary Logic"
   p.email  = 'bjohnson@binarylogic.com'
